@@ -27,7 +27,7 @@
     <td colspan="10">&nbsp;</td>
   </tr>
   <tr>
-    <td width="18%"><span class="Estilo4">Nombre</span></td>
+    <td width="18%"><span class="Estilo4">Nombre de usuario</span></td>
     <td colspan="9"><input name="textfield" type="text" size="40" maxlength="10" /></td>
   </tr>
   <tr>
